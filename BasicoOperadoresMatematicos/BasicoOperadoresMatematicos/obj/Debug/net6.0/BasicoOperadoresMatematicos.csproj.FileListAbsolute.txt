@@ -1,0 +1,15 @@
+C:\Users\franklin.vargas\Documents\area\git\BasicoOperadoresMatematicos\BasicoOperadoresMatematicos\bin\Debug\net6.0\BasicoOperadoresMatematicos.exe
+C:\Users\franklin.vargas\Documents\area\git\BasicoOperadoresMatematicos\BasicoOperadoresMatematicos\bin\Debug\net6.0\BasicoOperadoresMatematicos.deps.json
+C:\Users\franklin.vargas\Documents\area\git\BasicoOperadoresMatematicos\BasicoOperadoresMatematicos\bin\Debug\net6.0\BasicoOperadoresMatematicos.runtimeconfig.json
+C:\Users\franklin.vargas\Documents\area\git\BasicoOperadoresMatematicos\BasicoOperadoresMatematicos\bin\Debug\net6.0\BasicoOperadoresMatematicos.dll
+C:\Users\franklin.vargas\Documents\area\git\BasicoOperadoresMatematicos\BasicoOperadoresMatematicos\bin\Debug\net6.0\ref\BasicoOperadoresMatematicos.dll
+C:\Users\franklin.vargas\Documents\area\git\BasicoOperadoresMatematicos\BasicoOperadoresMatematicos\bin\Debug\net6.0\BasicoOperadoresMatematicos.pdb
+C:\Users\franklin.vargas\Documents\area\git\BasicoOperadoresMatematicos\BasicoOperadoresMatematicos\obj\Debug\net6.0\BasicoOperadoresMatematicos.csproj.AssemblyReference.cache
+C:\Users\franklin.vargas\Documents\area\git\BasicoOperadoresMatematicos\BasicoOperadoresMatematicos\obj\Debug\net6.0\BasicoOperadoresMatematicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franklin.vargas\Documents\area\git\BasicoOperadoresMatematicos\BasicoOperadoresMatematicos\obj\Debug\net6.0\BasicoOperadoresMatematicos.AssemblyInfoInputs.cache
+C:\Users\franklin.vargas\Documents\area\git\BasicoOperadoresMatematicos\BasicoOperadoresMatematicos\obj\Debug\net6.0\BasicoOperadoresMatematicos.AssemblyInfo.cs
+C:\Users\franklin.vargas\Documents\area\git\BasicoOperadoresMatematicos\BasicoOperadoresMatematicos\obj\Debug\net6.0\BasicoOperadoresMatematicos.csproj.CoreCompileInputs.cache
+C:\Users\franklin.vargas\Documents\area\git\BasicoOperadoresMatematicos\BasicoOperadoresMatematicos\obj\Debug\net6.0\BasicoOperadoresMatematicos.dll
+C:\Users\franklin.vargas\Documents\area\git\BasicoOperadoresMatematicos\BasicoOperadoresMatematicos\obj\Debug\net6.0\ref\BasicoOperadoresMatematicos.dll
+C:\Users\franklin.vargas\Documents\area\git\BasicoOperadoresMatematicos\BasicoOperadoresMatematicos\obj\Debug\net6.0\BasicoOperadoresMatematicos.pdb
+C:\Users\franklin.vargas\Documents\area\git\BasicoOperadoresMatematicos\BasicoOperadoresMatematicos\obj\Debug\net6.0\BasicoOperadoresMatematicos.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\franklin.vargas\Documents\area\git\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\bin\Debug\net6.0\AppOrientacaoObjetosParte1.exe
+C:\Users\franklin.vargas\Documents\area\git\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\bin\Debug\net6.0\AppOrientacaoObjetosParte1.deps.json
+C:\Users\franklin.vargas\Documents\area\git\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\bin\Debug\net6.0\AppOrientacaoObjetosParte1.runtimeconfig.json
+C:\Users\franklin.vargas\Documents\area\git\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\bin\Debug\net6.0\AppOrientacaoObjetosParte1.dll
+C:\Users\franklin.vargas\Documents\area\git\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\bin\Debug\net6.0\ref\AppOrientacaoObjetosParte1.dll
+C:\Users\franklin.vargas\Documents\area\git\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\bin\Debug\net6.0\AppOrientacaoObjetosParte1.pdb
+C:\Users\franklin.vargas\Documents\area\git\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net6.0\AppOrientacaoObjetosParte1.csproj.AssemblyReference.cache
+C:\Users\franklin.vargas\Documents\area\git\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net6.0\AppOrientacaoObjetosParte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franklin.vargas\Documents\area\git\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net6.0\AppOrientacaoObjetosParte1.AssemblyInfoInputs.cache
+C:\Users\franklin.vargas\Documents\area\git\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net6.0\AppOrientacaoObjetosParte1.AssemblyInfo.cs
+C:\Users\franklin.vargas\Documents\area\git\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net6.0\AppOrientacaoObjetosParte1.csproj.CoreCompileInputs.cache
+C:\Users\franklin.vargas\Documents\area\git\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net6.0\AppOrientacaoObjetosParte1.dll
+C:\Users\franklin.vargas\Documents\area\git\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net6.0\ref\AppOrientacaoObjetosParte1.dll
+C:\Users\franklin.vargas\Documents\area\git\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net6.0\AppOrientacaoObjetosParte1.pdb
+C:\Users\franklin.vargas\Documents\area\git\AppOrientacaoObjetosParte1\AppOrientacaoObjetosParte1\obj\Debug\net6.0\AppOrientacaoObjetosParte1.genruntimeconfig.cache

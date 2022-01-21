@@ -1,0 +1,15 @@
+C:\Users\franklin.vargas\Documents\area\git\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\bin\Debug\net6.0\ConsoleAppArraysIntroducao.exe
+C:\Users\franklin.vargas\Documents\area\git\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\bin\Debug\net6.0\ConsoleAppArraysIntroducao.deps.json
+C:\Users\franklin.vargas\Documents\area\git\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\bin\Debug\net6.0\ConsoleAppArraysIntroducao.runtimeconfig.json
+C:\Users\franklin.vargas\Documents\area\git\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\bin\Debug\net6.0\ConsoleAppArraysIntroducao.dll
+C:\Users\franklin.vargas\Documents\area\git\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\bin\Debug\net6.0\ref\ConsoleAppArraysIntroducao.dll
+C:\Users\franklin.vargas\Documents\area\git\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\bin\Debug\net6.0\ConsoleAppArraysIntroducao.pdb
+C:\Users\franklin.vargas\Documents\area\git\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net6.0\ConsoleAppArraysIntroducao.csproj.AssemblyReference.cache
+C:\Users\franklin.vargas\Documents\area\git\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net6.0\ConsoleAppArraysIntroducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franklin.vargas\Documents\area\git\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net6.0\ConsoleAppArraysIntroducao.AssemblyInfoInputs.cache
+C:\Users\franklin.vargas\Documents\area\git\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net6.0\ConsoleAppArraysIntroducao.AssemblyInfo.cs
+C:\Users\franklin.vargas\Documents\area\git\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net6.0\ConsoleAppArraysIntroducao.csproj.CoreCompileInputs.cache
+C:\Users\franklin.vargas\Documents\area\git\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net6.0\ConsoleAppArraysIntroducao.dll
+C:\Users\franklin.vargas\Documents\area\git\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net6.0\ref\ConsoleAppArraysIntroducao.dll
+C:\Users\franklin.vargas\Documents\area\git\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net6.0\ConsoleAppArraysIntroducao.pdb
+C:\Users\franklin.vargas\Documents\area\git\ConsoleAppArraysIntroducao\ConsoleAppArraysIntroducao\obj\Debug\net6.0\ConsoleAppArraysIntroducao.genruntimeconfig.cache

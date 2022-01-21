@@ -1,0 +1,15 @@
+C:\Users\franklin.vargas\Documents\area\git\BasicaoSObreString\BasicaoSObreString\bin\Debug\net6.0\BasicaoSObreString.exe
+C:\Users\franklin.vargas\Documents\area\git\BasicaoSObreString\BasicaoSObreString\bin\Debug\net6.0\BasicaoSObreString.deps.json
+C:\Users\franklin.vargas\Documents\area\git\BasicaoSObreString\BasicaoSObreString\bin\Debug\net6.0\BasicaoSObreString.runtimeconfig.json
+C:\Users\franklin.vargas\Documents\area\git\BasicaoSObreString\BasicaoSObreString\bin\Debug\net6.0\BasicaoSObreString.dll
+C:\Users\franklin.vargas\Documents\area\git\BasicaoSObreString\BasicaoSObreString\bin\Debug\net6.0\ref\BasicaoSObreString.dll
+C:\Users\franklin.vargas\Documents\area\git\BasicaoSObreString\BasicaoSObreString\bin\Debug\net6.0\BasicaoSObreString.pdb
+C:\Users\franklin.vargas\Documents\area\git\BasicaoSObreString\BasicaoSObreString\obj\Debug\net6.0\BasicaoSObreString.csproj.AssemblyReference.cache
+C:\Users\franklin.vargas\Documents\area\git\BasicaoSObreString\BasicaoSObreString\obj\Debug\net6.0\BasicaoSObreString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franklin.vargas\Documents\area\git\BasicaoSObreString\BasicaoSObreString\obj\Debug\net6.0\BasicaoSObreString.AssemblyInfoInputs.cache
+C:\Users\franklin.vargas\Documents\area\git\BasicaoSObreString\BasicaoSObreString\obj\Debug\net6.0\BasicaoSObreString.AssemblyInfo.cs
+C:\Users\franklin.vargas\Documents\area\git\BasicaoSObreString\BasicaoSObreString\obj\Debug\net6.0\BasicaoSObreString.csproj.CoreCompileInputs.cache
+C:\Users\franklin.vargas\Documents\area\git\BasicaoSObreString\BasicaoSObreString\obj\Debug\net6.0\BasicaoSObreString.dll
+C:\Users\franklin.vargas\Documents\area\git\BasicaoSObreString\BasicaoSObreString\obj\Debug\net6.0\ref\BasicaoSObreString.dll
+C:\Users\franklin.vargas\Documents\area\git\BasicaoSObreString\BasicaoSObreString\obj\Debug\net6.0\BasicaoSObreString.pdb
+C:\Users\franklin.vargas\Documents\area\git\BasicaoSObreString\BasicaoSObreString\obj\Debug\net6.0\BasicaoSObreString.genruntimeconfig.cache
